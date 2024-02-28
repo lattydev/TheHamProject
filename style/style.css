@@ -232,7 +232,7 @@ button {
     cursor: pointer;
 } 
 .section-services-item.active::after {
-    content: url(/img/services/arrow.svg);
+    content: url(../img/services/arrow.svg);
     font-size: 13px;
     position: absolute;
     left: calc(50% - 7px);
@@ -246,7 +246,7 @@ button {
     border: 1px solid #18CFAB;
 }
 .justbuy {
-    background: url(/img/justbuy/justbuy.png);
+    background: url(../img/justbuy/justbuy.png);
     margin-top: 100px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -436,7 +436,7 @@ color: #8A8A8A;
     padding-right: 10px;
 }
 .feedback {
-    background-image: url("/img/feedback/feedback-bg.png");
+    background-image: url("../img/feedback/feedback-bg.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
