@@ -1,5 +1,5 @@
 const newsImgs=[{
-    url: "/img/news/img1.jpg",
+    url: "./img/news/img1.jpg",
     date: new Date().getDate(),
     month: new Date().getMonth(),
     title: "Amazing Blog Post",
@@ -7,7 +7,7 @@ const newsImgs=[{
     comments: Math.floor(Math.random()*100)
 },
 {
-    url: "/img/news/img2.jpg",
+    url: "./img/news/img2.jpg",
     date: new Date().getDate(),
     month: new Date().getMonth(),
     title: "Amazing Blog Post",
@@ -15,7 +15,7 @@ const newsImgs=[{
     comments: Math.floor(Math.random()*100)
 },
 {
-    url: "/img/news/img3.jpg",
+    url: "./img/news/img3.jpg",
     date: new Date().getDate(),
     month: new Date().getMonth(),
     title: "Amazing Blog Post",
@@ -23,7 +23,7 @@ const newsImgs=[{
     comments: Math.floor(Math.random()*100)
 },
 {
-    url: "/img/news/img4.jpg",
+    url: "./img/news/img4.jpg",
     date: new Date().getDate(),
     month: new Date().getMonth(),
     title: "Amazing Blog Post",
@@ -31,7 +31,7 @@ const newsImgs=[{
     comments: Math.floor(Math.random()*100)
 },
 {
-    url: "/img/news/img5.jpg",
+    url: "./img/news/img5.jpg",
     date: new Date().getDate(),
     month: new Date().getMonth(),
     title: "Amazing Blog Post",
@@ -39,7 +39,7 @@ const newsImgs=[{
     comments: Math.floor(Math.random()*100)
 },
 {
-    url: "/img/news/img6.jpg",
+    url: "./img/news/img6.jpg",
     date: new Date().getDate(),
     month: new Date().getMonth(),
     title: "Amazing Blog Post",
@@ -47,7 +47,7 @@ const newsImgs=[{
     comments: Math.floor(Math.random()*100)
 },
 {
-    url: "/img/news/img7.jpg",
+    url: "./img/news/img7.jpg",
     date: new Date().getDate(),
     month: new Date().getMonth(),
     title: "Amazing Blog Post",
@@ -55,7 +55,7 @@ const newsImgs=[{
     comments: Math.floor(Math.random()*100)
 },
 {
-    url: "/img/news/img8.jpg",
+    url: "./img/news/img8.jpg",
     date: new Date().getDate(),
     month: new Date().getMonth(),
     title: "Amazing Blog Post",
